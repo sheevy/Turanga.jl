@@ -1,0 +1,7 @@
+name = "Turanga"
+uuid = "61c718bc-c9a3-11e8-2f69-bba796c07951"
+authors = ["Mateusz Kubica <mw.kubica@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
